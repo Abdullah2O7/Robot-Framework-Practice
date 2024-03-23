@@ -1,0 +1,9 @@
+
+
+			Comment on User sotry 1
+
+I added a course to the cart, Clicked on cart button on the top right and Navigated to the cart page, I clicked on the 'edit' button in the cart page, and the system enabled me to edit my cart.
+
+
+			Comment on User sotry 2
+
